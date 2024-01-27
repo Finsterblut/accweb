@@ -52,7 +52,7 @@ acc:
 # TECHNICAL STUFF FROM HERE ON
 
 config_path: config/
-dev: false
+dev: true
 loglevel: info
 cors:
   origins: "*"
